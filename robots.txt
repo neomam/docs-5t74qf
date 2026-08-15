@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vchnez.salamcuan.online/sitemap.xml
